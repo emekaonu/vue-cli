@@ -421,7 +421,7 @@ Use the following values during creation:
 
 That’s it! Your app will be live on your Render URL as soon as the build finishes.
 
-In order to receive direct hits using `history mode` on Vue Router, you need to add the following redirect rules in the `Redirects` tab under your static service.
+In order to receive direct hits using `history mode` on Vue Router, you need to add the following redirect rules in the `Redirects` tab under your site.
 
 Select `Redirects`, click on `Add Redirect Rule` button and
 
